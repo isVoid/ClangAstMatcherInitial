@@ -1,0 +1,7 @@
+name: bootast
+channels:
+  - conda-forge
+dependencies:
+  - clangdev>=17
+  - cmake>=3.17
+  - gtest
