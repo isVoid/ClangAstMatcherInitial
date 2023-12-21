@@ -1,4 +1,4 @@
-# Fast boostrapping project to develop with ASTMatcher
+# Fast boostrapping project to develop with ASTMatcher and GTest
 
 ## Environment Setup Via Conda
 
@@ -28,4 +28,5 @@ cmake --build .
 
 Run and verify:
 ```bash
+./myTool
 ```
