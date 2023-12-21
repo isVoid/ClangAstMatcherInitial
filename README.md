@@ -1,4 +1,4 @@
-# Fast boostrapping project to develop with ASTMatcher and GTest
+# Fast bootstrap project to develop with ASTMatcher and GTest
 
 ## Environment Setup Via Conda
 
